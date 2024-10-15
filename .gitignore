@@ -1,0 +1,6 @@
+TCG_Kick_Customers/bin/
+TCG_Kick_Customers/obj/
+TCG_Kick_Customers/TCGKickCustomer.csproj
+TCGCustomer.sln
+Libs/
+.vscode/
